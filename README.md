@@ -12,7 +12,7 @@ This Python script allows users to convert currencies using the Free Currency AP
 
 - Python 3.x
 - Requests library (`pip install requests`)
-- Sign Up and get your APi Key from here `https://freecurrencyapi.com/` then put it in API_KEY in the code.
+- Sign Up and get your API Key from here `https://freecurrencyapi.com/` then put it in API_KEY in the code.
 
 ### Usage
 
