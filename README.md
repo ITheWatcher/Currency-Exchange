@@ -19,4 +19,19 @@ This Python script allows users to convert currencies using the Free Currency AP
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ITheWatcher/Currency-Exchange.git
+   git clone https://github.com/ITheWatcher/Currency_Converter.git
+
+2. **Navigate to the Directory:**
+   ```bash
+   cd Currency_Converter
+
+3. **Install Dependencies:**
+   ```bash
+   pip install requests
+
+4. **Run the Script:**
+   ```bash
+   python currency_converter.py
+   ```
+
+Feel free to contribute, report issues, or suggest enhancements! Contact me on Telegram: [https://t.me/hh8cc](https://t.me/hh8cc) | Find me on GitHub: [GitHub Link](https://github.com/ITheWatcher)
