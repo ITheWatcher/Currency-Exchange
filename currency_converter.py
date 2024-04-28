@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'fca_live_PauisHXtMjMeJRbpZGMEp6u3bJ3p3GDWjKbQi4Ew'
+API_KEY = 'YOUR_API_KEY'
 BASE_URL = f"https://api.freecurrencyapi.com/v1/latest?apikey={API_KEY}"
 CURRENCY_DIC = {
     "EUR": "Euro",
